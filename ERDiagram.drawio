@@ -241,12 +241,6 @@
         <mxCell id="1KnYNuUJu4vu3SIquDnn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=-0.079;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1KnYNuUJu4vu3SIquDnn-2" target="1KnYNuUJu4vu3SIquDnn-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1KnYNuUJu4vu3SIquDnn-6" value="渠道" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="590" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1KnYNuUJu4vu3SIquDnn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.877;entryY=1.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1KnYNuUJu4vu3SIquDnn-6" target="1KnYNuUJu4vu3SIquDnn-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1KnYNuUJu4vu3SIquDnn-8" value="制单人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="10" y="590" width="70" height="30" as="geometry" />
         </mxCell>
