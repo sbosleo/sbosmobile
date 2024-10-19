@@ -341,7 +341,7 @@
         <mxCell id="ksWaZwplwS1Qn38nXCbJ-2" value="物料类型&lt;div&gt;（原料,辅料,公共料,客供料）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="22.5" y="200" width="167.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ksWaZwplwS1Qn38nXCbJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ksWaZwplwS1Qn38nXCbJ-4" target="ZXzAyRTXK-XYp23coG95-2">
+        <mxCell id="ksWaZwplwS1Qn38nXCbJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ksWaZwplwS1Qn38nXCbJ-4" target="ZXzAyRTXK-XYp23coG95-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ksWaZwplwS1Qn38nXCbJ-4" value="产品类型&lt;div&gt;（完成品,商品,半品）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
