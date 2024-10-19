@@ -274,7 +274,7 @@
         <mxCell id="ZXzAyRTXK-XYp23coG95-170" value="币种信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-200" y="180" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LOPXOmlwoqtBY_B9te6A-13" value="产品明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="LOPXOmlwoqtBY_B9te6A-13" value="入库明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-180" y="-150" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDqEY1DrGzASBAAAU0tb-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LOPXOmlwoqtBY_B9te6A-19" target="LOPXOmlwoqtBY_B9te6A-13">
@@ -283,7 +283,7 @@
         <mxCell id="LOPXOmlwoqtBY_B9te6A-19" value="入库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-180" y="-220" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LOPXOmlwoqtBY_B9te6A-21" value="入库明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="LOPXOmlwoqtBY_B9te6A-21" value="出库明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-90" y="-150" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDqEY1DrGzASBAAAU0tb-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LOPXOmlwoqtBY_B9te6A-23" target="LOPXOmlwoqtBY_B9te6A-21">
@@ -292,7 +292,7 @@
         <mxCell id="LOPXOmlwoqtBY_B9te6A-23" value="出库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-90" y="-220" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LOPXOmlwoqtBY_B9te6A-25" value="出库明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="LOPXOmlwoqtBY_B9te6A-25" value="盘点明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="5" y="-150" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDqEY1DrGzASBAAAU0tb-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LOPXOmlwoqtBY_B9te6A-32" target="LOPXOmlwoqtBY_B9te6A-25">
@@ -300,15 +300,6 @@
         </mxCell>
         <mxCell id="LOPXOmlwoqtBY_B9te6A-32" value="盘点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="5" y="-220" width="75" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="LOPXOmlwoqtBY_B9te6A-34" value="盘点明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="95" y="-150" width="75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gDqEY1DrGzASBAAAU0tb-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOPXOmlwoqtBY_B9te6A-42" target="LOPXOmlwoqtBY_B9te6A-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LOPXOmlwoqtBY_B9te6A-42" value="送货单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="113" y="-217.5" width="75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LOPXOmlwoqtBY_B9te6A-44" value="送货明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="240" y="-300" width="75" height="30" as="geometry" />
