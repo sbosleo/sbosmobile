@@ -206,7 +206,7 @@
         <mxCell id="LOPXOmlwoqtBY_B9te6A-44" value="送货明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="310" y="-310" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ksWaZwplwS1Qn38nXCbJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ksWaZwplwS1Qn38nXCbJ-2" target="ZXzAyRTXK-XYp23coG95-64" edge="1">
+        <mxCell id="ksWaZwplwS1Qn38nXCbJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ksWaZwplwS1Qn38nXCbJ-2" target="ZXzAyRTXK-XYp23coG95-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ksWaZwplwS1Qn38nXCbJ-2" value="物料类型&lt;div&gt;（原料,辅料）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -297,7 +297,7 @@
         <mxCell id="gDqEY1DrGzASBAAAU0tb-38" value="仓库类型&lt;div&gt;（汇总库,DS中国仓库，&lt;/div&gt;&lt;div&gt;美国公司仓库，&lt;/div&gt;&lt;div&gt;DS美国仓库1，&lt;/div&gt;&lt;div&gt;DS美国仓库2）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="180" y="-55" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gDqEY1DrGzASBAAAU0tb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gDqEY1DrGzASBAAAU0tb-41" target="ZXzAyRTXK-XYp23coG95-64">
+        <mxCell id="gDqEY1DrGzASBAAAU0tb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gDqEY1DrGzASBAAAU0tb-41" target="ZXzAyRTXK-XYp23coG95-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gDqEY1DrGzASBAAAU0tb-41" value="仓库类型&lt;div&gt;（内供料，公共料,客供料）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
