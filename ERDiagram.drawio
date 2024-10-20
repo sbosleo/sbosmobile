@@ -215,8 +215,8 @@
         <mxCell id="ksWaZwplwS1Qn38nXCbJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ksWaZwplwS1Qn38nXCbJ-4" target="ZXzAyRTXK-XYp23coG95-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ksWaZwplwS1Qn38nXCbJ-4" value="产品类型&lt;div&gt;（完成品,半品）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="52.5" y="-70" width="110" height="40" as="geometry" />
+        <mxCell id="ksWaZwplwS1Qn38nXCbJ-4" value="产品类型&lt;div&gt;（完成品,商品，半品）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="52.5" y="-70" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ksWaZwplwS1Qn38nXCbJ-10" value="产品明细" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-180" y="7.5" width="70" height="30" as="geometry" />
