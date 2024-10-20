@@ -362,9 +362,6 @@
         <mxCell id="ZwFi-bOwCCqLz888hdqe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZwFi-bOwCCqLz888hdqe-29" target="ZwFi-bOwCCqLz888hdqe-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8FaeclXT60ZeGwCW0dvo-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZwFi-bOwCCqLz888hdqe-29" target="8FaeclXT60ZeGwCW0dvo-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZwFi-bOwCCqLz888hdqe-29" value="营销活动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-95" y="-657.5" width="75" height="35" as="geometry" />
         </mxCell>
@@ -398,8 +395,11 @@
         <mxCell id="8FaeclXT60ZeGwCW0dvo-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.614;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8FaeclXT60ZeGwCW0dvo-11" target="8FaeclXT60ZeGwCW0dvo-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8FaeclXT60ZeGwCW0dvo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8FaeclXT60ZeGwCW0dvo-18" target="ZwFi-bOwCCqLz888hdqe-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8FaeclXT60ZeGwCW0dvo-18" value="活动结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-655.5" width="75" height="30" as="geometry" />
+          <mxGeometry x="140" y="-640" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8FaeclXT60ZeGwCW0dvo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8FaeclXT60ZeGwCW0dvo-22" target="ZwFi-bOwCCqLz888hdqe-29">
           <mxGeometry relative="1" as="geometry" />
@@ -431,18 +431,37 @@
         <mxCell id="8FaeclXT60ZeGwCW0dvo-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8FaeclXT60ZeGwCW0dvo-43" target="ZwFi-bOwCCqLz888hdqe-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="29" y="-680" />
-              <mxPoint x="-10" y="-680" />
+              <mxPoint x="29" y="-728" />
+              <mxPoint x="29" y="-710" />
+              <mxPoint x="-10" y="-710" />
               <mxPoint x="-10" y="-677" />
               <mxPoint x="-39" y="-677" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8FaeclXT60ZeGwCW0dvo-43" value="媒体帖子" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-725.5" width="75" height="30" as="geometry" />
+        <mxCell id="8FaeclXT60ZeGwCW0dvo-43" value="媒体帖子&lt;div&gt;内容&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry y="-758" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8FaeclXT60ZeGwCW0dvo-44" value="电子邮件模板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="-732.5" width="75" height="35" as="geometry" />
+        <mxCell id="8FaeclXT60ZeGwCW0dvo-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="8FaeclXT60ZeGwCW0dvo-44" target="8FaeclXT60ZeGwCW0dvo-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FaeclXT60ZeGwCW0dvo-44" value="媒体帖子模板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="95" y="-761" width="75" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8FaeclXT60ZeGwCW0dvo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="8FaeclXT60ZeGwCW0dvo-47" target="ZwFi-bOwCCqLz888hdqe-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FaeclXT60ZeGwCW0dvo-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8FaeclXT60ZeGwCW0dvo-47" target="8FaeclXT60ZeGwCW0dvo-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FaeclXT60ZeGwCW0dvo-47" value="活动事件" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="28.5" y="-710.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FaeclXT60ZeGwCW0dvo-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8FaeclXT60ZeGwCW0dvo-49" target="ZwFi-bOwCCqLz888hdqe-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FaeclXT60ZeGwCW0dvo-49" value="活动注册人" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="66.25" y="-670" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
