@@ -323,9 +323,6 @@
         <mxCell id="ZwFi-bOwCCqLz888hdqe-9" value="机会" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-483" y="-250" width="92.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZwFi-bOwCCqLz888hdqe-13" value="阶段&lt;div&gt;(客户)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="405" y="-662.5" width="130" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ZwFi-bOwCCqLz888hdqe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZwFi-bOwCCqLz888hdqe-14" target="ZwFi-bOwCCqLz888hdqe-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -344,9 +341,6 @@
         <mxCell id="ZwFi-bOwCCqLz888hdqe-19" value="线索评分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-540" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZwFi-bOwCCqLz888hdqe-20" value="活动结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-755" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ZwFi-bOwCCqLz888hdqe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZwFi-bOwCCqLz888hdqe-25" target="ZwFi-bOwCCqLz888hdqe-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -357,7 +351,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZwFi-bOwCCqLz888hdqe-28" value="活动类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-610" width="70" height="40" as="geometry" />
+          <mxGeometry x="280" y="-592" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZwFi-bOwCCqLz888hdqe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZwFi-bOwCCqLz888hdqe-29" target="ZwFi-bOwCCqLz888hdqe-25">
           <mxGeometry relative="1" as="geometry" />
