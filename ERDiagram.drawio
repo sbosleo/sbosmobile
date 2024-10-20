@@ -380,7 +380,7 @@
         <mxCell id="8FaeclXT60ZeGwCW0dvo-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8FaeclXT60ZeGwCW0dvo-11" target="ZwFi-bOwCCqLz888hdqe-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8FaeclXT60ZeGwCW0dvo-11" value="目标群体" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="8FaeclXT60ZeGwCW0dvo-11" value="群体&lt;span style=&quot;background-color: initial;&quot;&gt;标签&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="-490" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8FaeclXT60ZeGwCW0dvo-13" value="细分规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
