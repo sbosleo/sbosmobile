@@ -660,13 +660,10 @@
         <mxCell id="Lo6niQRe9PzIZXAeNAKE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo6niQRe9PzIZXAeNAKE-6" target="Lo6niQRe9PzIZXAeNAKE-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lo6niQRe9PzIZXAeNAKE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo6niQRe9PzIZXAeNAKE-6" target="Lo6niQRe9PzIZXAeNAKE-11">
+        <mxCell id="Lo6niQRe9PzIZXAeNAKE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo6niQRe9PzIZXAeNAKE-6" target="Lo6niQRe9PzIZXAeNAKE-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lo6niQRe9PzIZXAeNAKE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo6niQRe9PzIZXAeNAKE-6" target="Lo6niQRe9PzIZXAeNAKE-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Lo6niQRe9PzIZXAeNAKE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo6niQRe9PzIZXAeNAKE-6" target="Lo6niQRe9PzIZXAeNAKE-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lo6niQRe9PzIZXAeNAKE-6" value="库存信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -681,17 +678,29 @@
         <mxCell id="Lo6niQRe9PzIZXAeNAKE-9" value="申请明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-654" y="720" width="75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Lo6niQRe9PzIZXAeNAKE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo6niQRe9PzIZXAeNAKE-11" target="Lo6niQRe9PzIZXAeNAKE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo6niQRe9PzIZXAeNAKE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo6niQRe9PzIZXAeNAKE-11" target="Lo6niQRe9PzIZXAeNAKE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lo6niQRe9PzIZXAeNAKE-11" value="采购明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-525.5" y="720" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lo6niQRe9PzIZXAeNAKE-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo6niQRe9PzIZXAeNAKE-13" target="Lo6niQRe9PzIZXAeNAKE-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lo6niQRe9PzIZXAeNAKE-13" value="收货计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Lo6niQRe9PzIZXAeNAKE-13" value="采购入库单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-254" y="641" width="75" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="Lo6niQRe9PzIZXAeNAKE-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo6niQRe9PzIZXAeNAKE-16" target="Lo6niQRe9PzIZXAeNAKE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo6niQRe9PzIZXAeNAKE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lo6niQRe9PzIZXAeNAKE-16" target="Lo6niQRe9PzIZXAeNAKE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lo6niQRe9PzIZXAeNAKE-16" value="计划明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-253.5" y="721" width="75" height="30" as="geometry" />
+          <mxGeometry x="-253.5" y="717" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lo6niQRe9PzIZXAeNAKE-17" value="对账单单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-102.5" y="641" width="75" height="35" as="geometry" />
@@ -725,10 +734,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lo6niQRe9PzIZXAeNAKE-30" value="收货计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-375.5" y="850" width="75" height="35" as="geometry" />
+          <mxGeometry x="-375" y="515" width="75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Lo6niQRe9PzIZXAeNAKE-31" value="计划明细" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-375" y="930" width="75" height="30" as="geometry" />
+          <mxGeometry x="-374.5" y="595" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
