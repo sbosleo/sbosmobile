@@ -668,7 +668,7 @@
         <mxCell id="KP4u5Bxv68TDDrl4X7rw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KP4u5Bxv68TDDrl4X7rw-1" target="KP4u5Bxv68TDDrl4X7rw-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KP4u5Bxv68TDDrl4X7rw-1" value="工单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="KP4u5Bxv68TDDrl4X7rw-1" value="服务工单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="255.5" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KP4u5Bxv68TDDrl4X7rw-2" value="工单评论" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -701,7 +701,7 @@
         <mxCell id="KP4u5Bxv68TDDrl4X7rw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KP4u5Bxv68TDDrl4X7rw-21" target="KP4u5Bxv68TDDrl4X7rw-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KP4u5Bxv68TDDrl4X7rw-21" value="反馈表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="KP4u5Bxv68TDDrl4X7rw-21" value="反馈表&lt;div&gt;Text&amp;nbsp;&lt;/div&gt;&lt;div&gt;Group&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="439" y="-1150" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
